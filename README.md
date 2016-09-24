@@ -12,16 +12,16 @@
 
 这里简单介绍下我的开发过程：
 
-1. 首先获取App用到的各个接口API，这里我用了URL Snooper软件和Fiddler软件嗅探，同时参考了其他网友给出的API,
+1. 首先获取App用到的各个接口API，这里我用了URL Snooper软件和Fiddler软件嗅探，同时参考了其他网友给出的API
 [https://www.zhihu.com/question/22180137](https://www.zhihu.com/question/22180137)
 
 2. 用到的知识点：
 
-- Android Design库的使用
-- MVP模式
-- Webview
-- OKhttp封装框架的用法
-- 用Gson解析网络数据
-- 用Glide加载图片
+ - Android Design库的使用
+ - MVP模式
+ - Webview
+ - OKhttp封装框架的用法
+ - 用Gson解析网络数据
+ - 用Glide加载图片
 
 **具体请看源码**
